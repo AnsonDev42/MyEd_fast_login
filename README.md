@@ -1,11 +1,13 @@
 # MyEd_fast_login
-This script is automates the login process for University of Edinburgh's EASE portal, so no need to click Buttons anymore and actually SAVE YOUR TIME when uploading coursework (we all know it's probabaly right before ddl :(
+This script automates the login process for University of Edinburgh's EASE portal, so no need to click Buttons anymore and actually SAVE YOUR TIME when uploading coursework (we all know it's probabaly right before ddl :(
 
 ![fast login](showcase.gif)
 
 ## Disclaimer
 
 IMPORTANT NOTE: This userscript stores your account username and password directly in the script. This is generally considered bad practice, as it can be a security risk. We strongly recommend that you use a password manager instead of storing your passwords in userscripts or other files. By using this userscript, you assume all risks associated with storing your password in this way.
+
+For security concerns, you can copy and paste the script (the .js file in this repo) to chatGPT to do a code review :)
 
 ## Installation
 
